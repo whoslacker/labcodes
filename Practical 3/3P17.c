@@ -23,6 +23,11 @@ int main(){
         printf("Enter side of square: ");
         scanf("%d",&side);
         printf("The area square is %d",side*side);
+        break;
+
+        default:
+        printf("Invalid Choice!");
+        break;
     }
     return 0;
  }
