@@ -4,6 +4,7 @@ int main(){
      float rad;
      printf("Whoose area you want to findout.\n1. Rectangle\n2. Circle\n3. Square\nEnter your choice(1-3): ");
      scanf("%d",&oper);
+    
     switch(oper){
         case 1:
         printf("Enter lengh: ");
