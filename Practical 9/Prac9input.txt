@@ -1,0 +1,5 @@
+I am writing in this file to perform experiment number 9.
+Which is about searching any word in file.
+And also counting the number of occurences of the word.
+Reversing the contents written of a file.
+Seaching for a specific line.
